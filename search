@@ -1,0 +1,11 @@
+C:\Users\raju>winget search microsoft.powershell
+The `msstore` source requires that you view the following agreements before using.
+Terms of Transaction: https://aka.ms/microsoft-store-terms-of-transaction
+The source requires the current machine's 2-letter geographic region to be sent to the backend service to function properly (ex. "US").
+
+Do you agree to all the source agreements terms?
+[Y] Yes  [N] No: y
+Name               Id                           Version Source
+---------------------------------------------------------------
+PowerShell         Microsoft.PowerShell         7.4.4.0 winget
+PowerShell Preview Microsoft.PowerShell.Preview 7.5.0.3 winget
