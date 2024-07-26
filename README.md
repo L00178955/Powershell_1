@@ -7,3 +7,5 @@ In this repository we have push the PowerShell learning to the git hub as out as
 
 This project explains how to download the power shell and show some use cases and commands.
 
+For further cloning and usable purpose a branch has also been created.
+
